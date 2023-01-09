@@ -5,6 +5,9 @@ a. Read the input switches (the on-board switches).
 b. Send a command on the CAN network based on the switch's states. 
 c. SW1 & 2controls ECU2. 
 d. ECU 1 sends a message each 500 ms
+
+
+
 ECU 2 has the following functionality 
 a. ECU 2 State machine are periodic tasks with 10ms periodicities
 b. Read the commands from the CAN networks. 
