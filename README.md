@@ -1,4 +1,4 @@
-# State_Machine_By_Can_Bus
+# AUTOSAR_State_Machine_By_Can_Bus
 
 ECU 1 has the following functionality: 
 a. Read the input switches (the on-board switches). 
