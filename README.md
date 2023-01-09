@@ -18,8 +18,7 @@ c. Execute the state machine as the following:
 d. If no state change was identified for more than 5 seconds ECU should go to IDLE state(WHITE)
 
 
+![1](https://user-images.githubusercontent.com/106850500/211401915-2ac2e001-5e8c-4d74-9d53-7ab44b33b186.png)
 
-![Screenshot 2023-01-09 222546](https://user-images.githubusercontent.com/106850500/211401631-e7a4cfcb-668b-4bbb-a152-f53929364d6f.png)
 
-
-![Screenshot 2023-01-09 222604](https://user-images.githubusercontent.com/106850500/211401648-a43d9752-e966-402d-854b-bd547f59160f.png)
+![2](https://user-images.githubusercontent.com/106850500/211401933-6e2f6548-9d33-4be2-8cc2-7bb3858d2326.png)
